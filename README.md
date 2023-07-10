@@ -43,5 +43,5 @@
 <img align="left" alt="LinkdeIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://t.me/myanovskiy_m">
-<img align="left" alt="Telegram" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="Telegram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
