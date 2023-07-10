@@ -14,7 +14,7 @@
 
 <br />
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" />
@@ -24,7 +24,7 @@
 <br />
 <br />
 
-### 💻 Connect with me:
+## 💻 Connect with me:
 <a href="https://www.facebook.com/profile.php?id=100009704820125">
   <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.5.0/icons/facebook.svg" />
 </a>
