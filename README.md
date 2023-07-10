@@ -31,6 +31,9 @@
 <a href="https://www.atlassian.com/software/jira">
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </a>
+<a href="https://www.postman.com">
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+</a>
 
 </br>
 </br>
