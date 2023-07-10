@@ -15,6 +15,7 @@
 ## 🧰 Languages and Tools:
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Max-Myanovskiy/Max-Myanovskiy/blob/main/java.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" />
