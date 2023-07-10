@@ -28,6 +28,9 @@
 <a href="https://www.mysql.com">
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/Max-Myanovskiy/Max-Myanovskiy/blob/main/mysql.png" />
 </a>
+<a href="https://www.atlassian.com/software/jira">
+<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+</a>
 
 </br>
 </br>
