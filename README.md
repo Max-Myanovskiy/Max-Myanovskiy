@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maksym
+### <strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maksym</strong>
 
 ## I'm a Junior QA Engineer. Now I'm studying to be an IT specialist. I am learning Java, Git, and some other interesting technologies
 ## 🏆 **My tasks for the near future:**
