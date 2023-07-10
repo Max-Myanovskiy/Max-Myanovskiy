@@ -22,6 +22,7 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" />
 
 <br />
+<br />
 
 ### 💻 Connect with me:
 <a href="https://www.facebook.com/profile.php?id=100009704820125">
