@@ -19,7 +19,9 @@
 <a href="https://github.com">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
+<a href="https://www.java.com/en">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Max-Myanovskiy/Max-Myanovskiy/blob/main/java.png" />
+</a>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/Max-Myanovskiy/Max-Myanovskiy/blob/main/python.png" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/Max-Myanovskiy/Max-Myanovskiy/blob/main/mysql.png" />
 
