@@ -7,7 +7,7 @@
 * [x] Take a course on Git
 * [ ] Take the JavaRush course
 * [ ] Read the book "Java Programming for Kids, Parents, and Grandparents" by Yakov Fain
-* [ ] Create your first project on GitHub
+* [x] Create your first project on GitHub
 * [ ] Get ISTQB Certified Tester, Foundation Level
 * [ ] Take the Automation QA course
 <!-- TODO-IST:END -->
