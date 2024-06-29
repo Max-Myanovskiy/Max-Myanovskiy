@@ -39,9 +39,6 @@
 </br>
 
 ## 💻 Connect with me:
-// <a href="https://www.facebook.com/profile.php?id=100009704820125">
-// <img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-// </a>
 <a href="https://www.linkedin.com/in/maksym-m-bb6b5ab4/">
 <img align="left" alt="LinkdeIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
