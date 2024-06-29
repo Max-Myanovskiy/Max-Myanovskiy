@@ -49,4 +49,4 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Max-Myanovskiy)](https://github.com/Max-Myanovskiy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Myanovskiy)](https://github.com/Max-Myanovskiy/github-readme-stats)
