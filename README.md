@@ -45,3 +45,4 @@
 <a href="https://t.me/myanovskiy_m">
 <img align="left" alt="Telegram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Myanovskiy)](https://github.com/Max-Myanovskiy/github-readme-stats)
